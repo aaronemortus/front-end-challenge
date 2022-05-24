@@ -26,3 +26,5 @@ Ensure Sass is installed
 and run the Sass server
 
 `cd static/css && sass --watch global.scss global.css`
+
+If the installation is done, just start a simple server to display the index file.
