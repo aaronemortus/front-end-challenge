@@ -1,4 +1,4 @@
-# Jüsto Front-end Challenge
+# Front-end Challenge
 
 ### Requirements
 * Node 16
